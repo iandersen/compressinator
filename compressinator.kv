@@ -1,0 +1,66 @@
+#:kivy 1.11.0
+
+<PopupBox>:
+    pop_up_text: _pop_up_text
+    status_text: _status_text
+    size_hint: .75, .75
+    auto_dismiss: False
+    title: 'Status'   
+
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            id: _pop_up_text
+            text: ''
+        Label:
+            id: _status_text
+            text: ''
+
+<Root>:
+    BoxLayout:
+        orientation: 'vertical'
+        BoxLayout:
+            size_hint_y: 0.05
+            Button:
+                size_hint_x: 0.1
+                width: 100
+                text: 'Options'
+                on_release: app.open_settings()
+        GridLayout:
+            cols: 2
+            size_hint_y: 0.9
+            BoxLayout:
+                orientation: 'vertical'
+                Label:
+                    text: 'Enter URLs to process, one per line'
+                    size_hint_y: 0.05
+                TextInput:
+                    text: 'https://example.com'
+                    id: unprocessed
+                    multiline: True
+            BoxLayout:
+                orientation: 'vertical'
+                Label:
+                    size_hint_y: 0.05
+                    text: 'This is where the processed URLs will go'
+                TextInput:
+                    text: ''
+                    multiline: True
+                    id: processed
+                Button:
+                    size_hint_y: 0.05
+                    text: 'View Output Folder'
+                    background_color: .7,.9,.7,1
+                    on_release: app.view_output_folder()
+        BoxLayout:
+            size_hint_y: 0.05
+            Button:
+                size_hint_x: 0.7
+                background_color: .5,.5,.5,1
+                text: 'Output Path: ' + app.config['Default'].get('RootPath')
+                on_release: app.open_settings()
+                id: output_path
+            Button:
+                size_hint_x: 0.3
+                text: 'Compressinate'
+                on_release: app.compress_stuff()
