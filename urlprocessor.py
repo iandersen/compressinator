@@ -21,7 +21,6 @@ def get_image_urls_from_page(source, url, domain_url):
         if re.search(r'^\/\/', image) is not None:
             protocol_regex = r'^https?:'
             protocol = re.search(protocol_regex, url).group()
-            printlog('The protocol is: ' + protocol)
             image = protocol + image
         processed_images.append(image)
         add_image_to_map(image, url, domain_url)
@@ -35,7 +34,27 @@ def add_image_to_map(image_url, url, domain_url):
     else:
         image_to_page_map[domain_url][image_url] = [url,]
 
-def crawl_all_images(url, domain_url, parent_url=None):
+def clean_link(href, url, domain_url):
+    if re.search(r'(https?:|^\/\/)', href) is None:
+        if re.search(r'^\/', href) is None:
+            href = url + '/' + href
+        else:
+            href = domain_url + href
+    elif re.search(re.escape(domain_url), href) is None:
+        return
+    href = re.sub(r'[#].*', '', href) # Replace everything after anchors
+    href = re.sub(r'([^:])\/{2,}', r'\1/', href) # Replace extra slashes
+    href = re.sub(r'\/$', '', href) # Remove the trailing slash
+    if re.search(r'^\/\/', href) is not None:
+        protocol_regex = r'^https?:'
+        protocol = re.match(protocol_regex, url).group()
+        href = protocol + href
+    if href not in all_pages_visited[domain_url]:
+        return href
+    return None
+
+
+def crawl_all_images(url, domain_url, parent_url=None, download_css = False):
     STATUSES[threading.get_ident()] = 'Crawling page ' + url
     response = None
     try:
@@ -51,31 +70,26 @@ def crawl_all_images(url, domain_url, parent_url=None):
     s = BeautifulSoup(response.text, "html.parser")
     links = []
     images = get_image_urls_from_page(response.text, url, domain_url)
+    if download_css:
+        for stylesheet in s.findAll('link', rel="stylesheet"):
+            href = stylesheet.get('href')
+            if re.search(r'\.css$', href, flags=re.IGNORECASE) is not None:
+                href = clean_link(href, url, domain_url)
+                if href is not None:
+                    all_pages_visited[domain_url].append(href)
+                    links.append(href)
     for link in s.findAll('a', href=True):
         href = link.get('href')
         if re.search(r'^(tel:|mailto:|javascript:)', href) is not None:
             continue
         if re.search(r'(\.pdf|\.mp4|\.mp3|\.mov|\.m4v|\.jpg|\.jpeg|\.png)$', href, flags=re.IGNORECASE) is not None:
             continue
-        if re.search(r'(https?:|^\/\/)', href) is None:
-            if re.search(r'^\/', href) is None:
-                href = url + '/' + href
-            else:
-                href = domain_url + href
-        elif re.search(re.escape(domain_url), href) is None:
-            continue
-        href = re.sub(r'[#].*', '', href) # Replace everything after anchors
-        href = re.sub(r'([^:])\/{2,}', r'\1/', href) # Replace extra slashes
-        href = re.sub(r'\/$', '', href) # Remove the trailing slash
-        if re.search(r'^\/\/', href) is not None:
-            protocol_regex = r'^https?:'
-            protocol = re.match(protocol_regex, url).group()
-            href = protocol + href
-        if href not in all_pages_visited[domain_url]:
+        href = clean_link(href, url, domain_url)
+        if href is not None:
             all_pages_visited[domain_url].append(href)
             links.append(href)
     for link in links:
-        new_images = crawl_all_images(link, domain_url, parent_url=url)
+        new_images = crawl_all_images(link, domain_url, parent_url=url, download_css=download_css)
         for image in new_images:
             if image not in images:
                 images.append(image)
@@ -98,6 +112,12 @@ def process_url(url, updatedConfig):
     FlattenOutputDirectory = updatedConfig['flattenoutputdirectory']
     if FlattenOutputDirectory == '0':
         FlattenOutputDirectory = False
+
+    DownloadCSSFiles = updatedConfig['downloadcssfiles']
+    if DownloadCSSFiles == '0':
+        DownloadCSSFiles = False
+
+    printlog(str(DownloadCSSFiles))
 
     total_size = 0
     new_size = 0
@@ -146,7 +166,7 @@ def process_url(url, updatedConfig):
     else:
         try:
             STATUSES[threading.get_ident()] = 'Crawling site: ' + host_url
-            images = crawl_all_images(url, host_url)
+            images = crawl_all_images(url, host_url, download_css=DownloadCSSFiles)
             pages_crawled = len(all_pages_visited[host_url])
         except Exception as err:
             printlog(repr(err))
@@ -209,14 +229,14 @@ def process_url(url, updatedConfig):
                 except Exception as err:
                     printlog(repr(err))
                 file.write('\t' + error + '\n')
-            else:
+            if not len(link_errors[host_url]):
                 file.write('\t No Link Errors! :)\n')
             file.write('\nImage Errors\n')
             for image_url in image_errors[host_url]:
                 file.write('Error with ' + image_url + ': ' + image_errors[host_url][image_url] + ' - on the following page(s): \n')
                 for page in image_to_page_map[host_url][image_url]:
                     file.write('\t' + page + '\n')
-            else:
+            if not len(image_errors[host_url]):
                 file.write('\tNo Image Errors! :)\n')
     except Exception as error:
         printlog(repr(error))

@@ -74,8 +74,15 @@ settings_json = json.dumps([
             {
                 "type":"bool",
                 "title": "Download All Images?",
-                "desc":"If selected, this will save images even if they cannot be compressed anymore.",
+                "desc":"If selected, this will save images even if they do not meet the size or compressibility requirements.",
                 "section":"Default",
                 "key":"CopyAllImages"
+            },
+            {
+                "type":"bool",
+                "title": "Download CSS Files?",
+                "desc":"If selected, this will search for images in external stylesheets as well. This will only work if you are crawling the whole site",
+                "section":"Default",
+                "key":"DownloadCSSFiles"
             }
         ])

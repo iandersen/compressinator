@@ -104,14 +104,15 @@ class CompressinatorApp(App):
             'WholeSite': False,
             'AllowExternalImages': False,
             'FlattenOutputDirectory': False,
-            'CopyAllImages': False
+            'CopyAllImages': False,
+            'DownloadCSSFiles': False
         })
 
     def build_settings(self, settings):
         settings.add_json_panel('Compressinator Settings', self.config, data=settings_json)
 
     def on_config_change(self, config, section, key, value):
-        booleanKeys = ('WholeSite', 'AllowExternalImages', 'FlattenOutputDirectory', 'CopyAllImages')
+        booleanKeys = ('WholeSite', 'AllowExternalImages', 'FlattenOutputDirectory', 'CopyAllImages', 'DownloadCSSFiles')
         if key in booleanKeys:
             if value == '0':
                 updatedConfig[key] = False
