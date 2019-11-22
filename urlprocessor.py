@@ -18,6 +18,11 @@ def get_image_urls_from_page(source, url, domain_url):
                 image = url + '/' + image
             else:
                 image = domain_url + image
+        if re.search(r'^\/\/', image) is not None:
+            protocol_regex = r'^https?:'
+            protocol = re.search(protocol_regex, url).group()
+            printlog('The protocol is: ' + protocol)
+            image = protocol + image
         processed_images.append(image)
         add_image_to_map(image, url, domain_url)
     return processed_images
@@ -62,6 +67,10 @@ def crawl_all_images(url, domain_url, parent_url=None):
         href = re.sub(r'[#].*', '', href) # Replace everything after anchors
         href = re.sub(r'([^:])\/{2,}', r'\1/', href) # Replace extra slashes
         href = re.sub(r'\/$', '', href) # Remove the trailing slash
+        if re.search(r'^\/\/', href) is not None:
+            protocol_regex = r'^https?:'
+            protocol = re.match(protocol_regex, url).group()
+            href = protocol + href
         if href not in all_pages_visited[domain_url]:
             all_pages_visited[domain_url].append(href)
             links.append(href)
@@ -85,7 +94,10 @@ def process_url(url, updatedConfig):
     WholeSite = updatedConfig['wholesite']
     if WholeSite == '0':
         WholeSite = False
-    
+
+    FlattenOutputDirectory = updatedConfig['flattenoutputdirectory']
+    if FlattenOutputDirectory == '0':
+        FlattenOutputDirectory = False
 
     total_size = 0
     new_size = 0
@@ -197,11 +209,15 @@ def process_url(url, updatedConfig):
                 except Exception as err:
                     printlog(repr(err))
                 file.write('\t' + error + '\n')
+            else:
+                file.write('\t No Link Errors! :)\n')
             file.write('\nImage Errors\n')
             for image_url in image_errors[host_url]:
                 file.write('Error with ' + image_url + ': ' + image_errors[host_url][image_url] + ' - on the following page(s): \n')
                 for page in image_to_page_map[host_url][image_url]:
                     file.write('\t' + page + '\n')
+            else:
+                file.write('\tNo Image Errors! :)\n')
     except Exception as error:
         printlog(repr(error))
     del_dirs(new_path)

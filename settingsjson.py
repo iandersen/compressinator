@@ -56,5 +56,26 @@ settings_json = json.dumps([
                 "desc":"If selected, the Compressinator will attempt to visit every page and download all the images. This will be much much slower.",
                 "section":"Default",
                 "key":"WholeSite"
+            },
+            {
+                "type":"bool",
+                "title": "Download External Images?",
+                "desc":"If selected, the Compressinator will download images hosted on other domains.",
+                "section":"Default",
+                "key":"AllowExternalImages"
+            },
+            {
+                "type":"bool",
+                "title": "Flatten Output Directory?",
+                "desc":"If selected, this will not separate the images into subfolders",
+                "section":"Default",
+                "key":"FlattenOutputDirectory"
+            },
+            {
+                "type":"bool",
+                "title": "Download All Images?",
+                "desc":"If selected, this will save images even if they cannot be compressed anymore.",
+                "section":"Default",
+                "key":"CopyAllImages"
             }
         ])

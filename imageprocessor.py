@@ -7,6 +7,7 @@ import subprocess
 import shutil
 
 def process_image(image_url, updatedConfig, url, new_path, backup_path):
+    printlog('Processing image: ' + image_url)
     MinBytes = int(updatedConfig['minbytes'])
     MinSaving = int(float(updatedConfig['minsaving']))
     SsoLink = updatedConfig['ssolink']
@@ -14,14 +15,28 @@ def process_image(image_url, updatedConfig, url, new_path, backup_path):
     PillowQuality = int(updatedConfig['pillowquality'])
     ThumbnailPath = updatedConfig['thumbnailpath']
     RootPath = updatedConfig['rootpath']
+
+    AllowExternalImages = updatedConfig['allowexternalimages']
+    if AllowExternalImages == '0':
+        AllowExternalImages = False
+
+    CopyAllImages = updatedConfig['copyallimages']
+    if CopyAllImages == '0':
+        CopyAllImages = False
+
+    FlattenOutputDirectory = updatedConfig['flattenoutputdirectory']
+    if FlattenOutputDirectory == '0':
+        FlattenOutputDirectory = False
+
     site_regex = re.escape(url)
+    host_regex = r'(?:http[s]?:)\/\/([^\/?#]+)'
     new_size = 0
     old_size = 0
     attempted = False
     compressed = False
     if re.search(r'(https?:|^\/\/)', image_url) is None:
         image_url = url + image_url
-    elif re.search(site_regex, image_url) is None:
+    elif re.search(site_regex, image_url) is None and not AllowExternalImages:
         return CompressionInfo(exclusion_reason='REMOTE')
     if re.search(re.escape(ThumbnailPath), image_url) is not None:
         return CompressionInfo(exclusion_reason='THUMBNAIL')
@@ -33,12 +48,22 @@ def process_image(image_url, updatedConfig, url, new_path, backup_path):
             image_errors[url][image_url] = repr(error)
             return CompressionInfo(exclusion_reason='ERROR')
         image_size = int(image.getheader("Content-Length"))
-        if image_size > MinBytes:
+        if image_size > MinBytes or CopyAllImages:
             image_relative_path = re.sub(site_regex, '', image_url) #Remove the https://domain.com
+            printlog('flat: ' + str(FlattenOutputDirectory) + ', external: ' + str(AllowExternalImages))
+            if FlattenOutputDirectory or AllowExternalImages:
+                image_relative_path = re.match(host_regex, image_url).group(1) + '/' + image_relative_path
+            if FlattenOutputDirectory:
+                printlog(image_url)
+                image_relative_path = re.match(host_regex, image_url).group(1) + re.search(r'(\/[^\/]+$)', image_url).group()
+                printlog(image_relative_path)
+
+            
             image_relative_path = re.sub(r'^\/', '', image_relative_path) # Remove the initial / so it doesn't look like an absolute path
             image_relative_path = image_relative_path.split('/')
             filename = os.path.join(new_path,*image_relative_path)
             backup_filename = os.path.join(backup_path, *image_relative_path)
+            printlog(filename)
             if not os.path.exists(os.path.dirname(filename)):
                 try:
                     os.makedirs(os.path.dirname(filename))
@@ -78,7 +103,7 @@ def process_image(image_url, updatedConfig, url, new_path, backup_path):
                     pass
             new_file_size = os.path.getsize(filename)
             attempted = True
-            if original_file_size == 0 or (original_file_size - new_file_size) / original_file_size < (MinSaving / 100):
+            if not CopyAllImages and (original_file_size == 0 or (original_file_size - new_file_size) / original_file_size < (MinSaving / 100)):
                 os.remove(filename)
                 os.remove(backup_filename)
             else:

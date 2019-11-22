@@ -101,20 +101,24 @@ class CompressinatorApp(App):
             'PillowQuality': '80',
             'ThumbnailPath': '/cms/thumbnails/',
             'RootPath': default_root_path,
-            'WholeSite': False
+            'WholeSite': False,
+            'AllowExternalImages': False,
+            'FlattenOutputDirectory': False,
+            'CopyAllImages': False
         })
 
     def build_settings(self, settings):
         settings.add_json_panel('Compressinator Settings', self.config, data=settings_json)
 
     def on_config_change(self, config, section, key, value):
-        if key == 'WholeSite':
+        booleanKeys = ('WholeSite', 'AllowExternalImages', 'FlattenOutputDirectory', 'CopyAllImages')
+        if key in booleanKeys:
             if value == '0':
                 updatedConfig[key] = False
-                updatedConfig['wholesite'] = False
+                updatedConfig[key.lower()] = False
             else:
                 updatedConfig[key] = True
-                updatedConfig['wholesite'] = True
+                updatedConfig[key.lower()] = True
         else:
             updatedConfig[key] = value
         if key == 'RootPath':

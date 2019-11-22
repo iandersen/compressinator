@@ -1,0 +1,1712 @@
+Processing image: http://www.outdoorlights.com/assets/social/Social-Share.jpg
+Processing image: https://columbus.outdoorlights.com/assets/logo.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\logo.png
+Processing image: https://columbus.outdoorlights.com/images/hero/OPTION-6.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\images\hero\OPTION-6.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/homeowners-associations.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\homeowners-associations.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/landscape-lighting.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\landscape-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/curb-appeal.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\curb-appeal.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/pathway-lighting.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\pathway-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/assets/OLP-Pathlight-Logo-copy-4.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\OLP-Pathlight-Logo-copy-4.png
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp8.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Small-Columbus-spaces-benefit-from-outdoor-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp5.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp4.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp6.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Waterfall-lighting-by-Outdoor-Lighting-Perspectives-of-Columbus.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/pool-area-lighting-in-Columbus.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Outdoor-lighting-on-columbus-home.jpg
+Processing image: https://columbus.outdoorlights.com/assets/content-bg-2.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\content-bg-2.jpg
+Processing image: https://www.scorpion.co/images/client-footer-logos/franchise-logo.png
+Processing image: http://www.outdoorlights.com/assets/social/Social-Share.jpg
+Processing image: https://columbus.outdoorlights.com/assets/logo.png
+Processing image: https://columbus.outdoorlights.com/images/hero/OPTION-6.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\images\hero\OPTION-6.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/homeowners-associations.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\homeowners-associations.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/landscape-lighting.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\landscape-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/curb-appeal.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\curb-appeal.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/pathway-lighting.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\services\pathway-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/assets/OLP-Pathlight-Logo-copy-4.png
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp8.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Small-Columbus-spaces-benefit-from-outdoor-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp5.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp4.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp6.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Waterfall-lighting-by-Outdoor-Lighting-Perspectives-of-Columbus.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/pool-area-lighting-in-Columbus.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Outdoor-lighting-on-columbus-home.jpg
+Processing image: https://columbus.outdoorlights.com/assets/content-bg-2.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\assets\content-bg-2.jpg
+Processing image: https://www.scorpion.co/images/client-footer-logos/franchise-logo.png
+Processing image: http://www.outdoorlights.com/assets/social/Social-Share.jpg
+flat: True, external: True
+http://www.outdoorlights.com/assets/social/Social-Share.jpg
+www.outdoorlights.com/Social-Share.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\www.outdoorlights.com\Social-Share.jpg
+Processing image: https://columbus.outdoorlights.com/assets/logo.png
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/logo.png
+columbus.outdoorlights.com/logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\logo.png
+Processing image: https://columbus.outdoorlights.com/images/hero/OPTION-6.jpg
+flat: True, external: True
+https://columbus.outdoorlights.com/images/hero/OPTION-6.jpg
+columbus.outdoorlights.com/OPTION-6.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\OPTION-6.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/homeowners-associations.jpg
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/services/homeowners-associations.jpg
+columbus.outdoorlights.com/homeowners-associations.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\homeowners-associations.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/landscape-lighting.jpg
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/services/landscape-lighting.jpg
+columbus.outdoorlights.com/landscape-lighting.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\landscape-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/curb-appeal.jpg
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/services/curb-appeal.jpg
+columbus.outdoorlights.com/curb-appeal.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\curb-appeal.jpg
+Processing image: https://columbus.outdoorlights.com/assets/services/pathway-lighting.jpg
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/services/pathway-lighting.jpg
+columbus.outdoorlights.com/pathway-lighting.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\pathway-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/assets/OLP-Pathlight-Logo-copy-4.png
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/OLP-Pathlight-Logo-copy-4.png
+columbus.outdoorlights.com/OLP-Pathlight-Logo-copy-4.png
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\OLP-Pathlight-Logo-copy-4.png
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp8.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Small-Columbus-spaces-benefit-from-outdoor-lighting.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp5.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp4.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/olp6.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Waterfall-lighting-by-Outdoor-Lighting-Perspectives-of-Columbus.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/pool-area-lighting-in-Columbus.jpg
+Processing image: https://columbus.outdoorlights.com/cms/thumbnails/24/640x640/images/Outdoor-lighting-on-columbus-home.jpg
+Processing image: https://columbus.outdoorlights.com/assets/content-bg-2.jpg
+flat: True, external: True
+https://columbus.outdoorlights.com/assets/content-bg-2.jpg
+columbus.outdoorlights.com/content-bg-2.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\columbus.outdoorlights.com\content-bg-2.jpg
+Processing image: https://www.scorpion.co/images/client-footer-logos/franchise-logo.png
+flat: True, external: True
+https://www.scorpion.co/images/client-footer-logos/franchise-logo.png
+www.scorpion.co/franchise-logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\columbus.outdoorlights.com\www.scorpion.co\franchise-logo.png
+Processing image: https://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+www.pyramidheating.com/Social-Share[1].jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Social-Share[1].jpg
+Processing image: https://www.pyramidheating.com/images/logos/Dark-Logo.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/logos/Dark-Logo.png
+www.pyramidheating.com/Dark-Logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Dark-Logo.png
+Processing image: https://www.pyramidheating.com/images/logos/Light-Logo.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/logos/Light-Logo.png
+www.pyramidheating.com/Light-Logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Light-Logo.png
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/mainstages/mainstage-v1-bg-mobile.jpg
+www.pyramidheating.com/mainstage-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\mainstage-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/mainstages/mainstage-v1-bg.jpg
+www.pyramidheating.com/mainstage-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\mainstage-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-img-mobile.png
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/mainstages/mainstage-v1-img-mobile.png
+www.pyramidheating.com/mainstage-v1-img-mobile.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\mainstage-v1-img-mobile.png
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-img.png
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/mainstages/mainstage-v1-img.png
+www.pyramidheating.com/mainstage-v1-img.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\mainstage-v1-img.png
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/content/content-v3-bg-mobile.jpg
+www.pyramidheating.com/content-v3-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\content-v3-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/content/content-v3-bg.jpg
+www.pyramidheating.com/content-v3-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\content-v3-bg.jpg
+Processing image: https://www.pyramidheating.com/images/accolades/TALogo_black_WhiteSpace.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/TALogo_black_WhiteSpace.jpg
+www.pyramidheating.com/TALogo_black_WhiteSpace.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\TALogo_black_WhiteSpace.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-img-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/content/content-v3-img-mobile.jpg
+www.pyramidheating.com/content-v3-img-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\content-v3-img-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-img.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/content/content-v3-img.jpg
+www.pyramidheating.com/content-v3-img.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\content-v3-img.jpg
+Processing image: https://www.pyramidheating.com/assets/services/services-v4-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/services/services-v4-bg-mobile.jpg
+www.pyramidheating.com/services-v4-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\services-v4-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/services/services-v4-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/services/services-v4-bg.jpg
+www.pyramidheating.com/services-v4-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\services-v4-bg.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/air-quality-2[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/air-quality-2[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/cooling-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/cooling-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/Heating-2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/Heating-2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/commercial-hvac1[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/commercial-hvac1[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/e.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/e.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/panel-groups/panel-group-v1-bg-mobile.jpg
+www.pyramidheating.com/panel-group-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\panel-group-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/panel-groups/panel-group-v1-bg.jpg
+www.pyramidheating.com/panel-group-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\panel-group-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/contact/contact-v1-bg-mobile.jpg
+www.pyramidheating.com/contact-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\contact-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/contact/contact-v1-bg.jpg
+www.pyramidheating.com/contact-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\contact-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/values/values-v4-bg-mobile.jpg
+www.pyramidheating.com/values-v4-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\values-v4-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/values/values-v4-bg.jpg
+www.pyramidheating.com/values-v4-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\values-v4-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-img-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/values/values-v4-img-mobile.jpg
+www.pyramidheating.com/values-v4-img-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\values-v4-img-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-img.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/values/values-v4-img.jpg
+www.pyramidheating.com/values-v4-img.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\values-v4-img.jpg
+Processing image: https://www.pyramidheating.com/assets/awards/awards-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/awards/awards-v1-bg-mobile.jpg
+www.pyramidheating.com/awards-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\awards-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/awards/awards-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/awards/awards-v1-bg.jpg
+www.pyramidheating.com/awards-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\awards-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/images/accolades/Carrier-Logo.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/Carrier-Logo.png
+www.pyramidheating.com/Carrier-Logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Carrier-Logo.png
+Processing image: https://www.pyramidheating.com/images/accolades/5.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/5.png
+www.pyramidheating.com/5.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\5.png
+Processing image: https://www.pyramidheating.com/images/accolades/6[1].png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/6[1].png
+www.pyramidheating.com/6[1].png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\6[1].png
+Processing image: https://www.pyramidheating.com/images/accolades/nwn.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/nwn.png
+www.pyramidheating.com/nwn.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\nwn.png
+Processing image: https://www.pyramidheating.com/images/accolades/expertise-badge.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/expertise-badge.jpg
+www.pyramidheating.com/expertise-badge.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\expertise-badge.jpg
+Processing image: https://www.pyramidheating.com/images/accolades/pge.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/pge.png
+www.pyramidheating.com/pge.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\pge.png
+Processing image: https://www.pyramidheating.com/images/accolades/HBA_Logo.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/HBA_Logo.png
+www.pyramidheating.com/HBA_Logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\HBA_Logo.png
+Processing image: https://www.pyramidheating.com/images/accolades/7.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/7.png
+www.pyramidheating.com/7.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\7.png
+Processing image: https://www.pyramidheating.com/images/accolades/bia.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/accolades/bia.png
+www.pyramidheating.com/bia.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\bia.png
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/reviews/reviews-v1-bg-mobile.jpg
+www.pyramidheating.com/reviews-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\reviews-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/reviews/reviews-v1-bg.jpg
+www.pyramidheating.com/reviews-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\reviews-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/ctas/cta-v4-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/ctas/cta-v4-bg-mobile.jpg
+www.pyramidheating.com/cta-v4-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\cta-v4-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/ctas/cta-v4-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/ctas/cta-v4-bg.jpg
+www.pyramidheating.com/cta-v4-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\cta-v4-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/footers/footer-v3-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/footers/footer-v3-bg-mobile.jpg
+www.pyramidheating.com/footer-v3-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\footer-v3-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/footers/footer-v3-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/footers/footer-v3-bg.jpg
+www.pyramidheating.com/footer-v3-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\footer-v3-bg.jpg
+Processing image: https://www.scorpion.co/images/client-footer-logos/home-services-logo.png
+flat: 1, external: 1
+https://www.scorpion.co/images/client-footer-logos/home-services-logo.png
+www.scorpion.co/home-services-logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.scorpion.co\home-services-logo.png
+Processing image: http://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+www.pyramidheating.com/Social-Share[1].jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Social-Share[1].jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/air-quality-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/air-quality-mobile.jpg
+www.pyramidheating.com/air-quality-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\air-quality-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/air-quality.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/air-quality.jpg
+www.pyramidheating.com/air-quality.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\air-quality.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/content/content-v1-bg-mobile.jpg
+www.pyramidheating.com/content-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\content-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/content/content-v1-bg.jpg
+www.pyramidheating.com/content-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\content-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/images/Gary-Phillis-min.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/Gary-Phillis-min.jpg
+www.pyramidheating.com/Gary-Phillis-min.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Gary-Phillis-min.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v2-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/panel-groups/panel-group-v2-bg-mobile.jpg
+www.pyramidheating.com/panel-group-v2-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\panel-group-v2-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v2-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/panel-groups/panel-group-v2-bg.jpg
+www.pyramidheating.com/panel-group-v2-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\panel-group-v2-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v3-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/values/values-v3-bg-mobile.jpg
+www.pyramidheating.com/values-v3-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\values-v3-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v3-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/values/values-v3-bg.jpg
+www.pyramidheating.com/values-v3-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\values-v3-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/specials-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/specials-mobile.jpg
+www.pyramidheating.com/specials-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\specials-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/specials.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/specials.jpg
+www.pyramidheating.com/specials.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\specials.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/results-system-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/results-system-v1-bg-mobile.jpg
+www.pyramidheating.com/results-system-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\results-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/results-system-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/results-system-v1-bg.jpg
+www.pyramidheating.com/results-system-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\results-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/blog-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/blog-mobile.jpg
+www.pyramidheating.com/blog-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\blog-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/blog.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/blog.jpg
+www.pyramidheating.com/blog.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\blog.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/shutterstock_502014460.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/helpful-tips.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/upgrades.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/shutterstock_112951720.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Air-Purifier-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/Air-Purifier-mobile.jpg
+www.pyramidheating.com/Air-Purifier-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Air-Purifier-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Air-Purifier.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/Air-Purifier.jpg
+www.pyramidheating.com/Air-Purifier.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Air-Purifier.jpg
+Processing image: https://www.pyramidheating.com/images/content/Filter_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/Filter_sm.png
+www.pyramidheating.com/Filter_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Filter_sm.png
+Processing image: https://www.pyramidheating.com/images/content/infinity-air-purifier-DCAPA-large.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/infinity-air-purifier-DCAPA-large.png
+www.pyramidheating.com/infinity-air-purifier-DCAPA-large.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\infinity-air-purifier-DCAPA-large.png
+Processing image: https://www.pyramidheating.com/images/content/UV-Lights_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/UV-Lights_sm.png
+www.pyramidheating.com/UV-Lights_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\UV-Lights_sm.png
+Processing image: https://www.pyramidheating.com/images/content/Dehumidifier_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/Dehumidifier_sm.png
+www.pyramidheating.com/Dehumidifier_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Dehumidifier_sm.png
+Processing image: https://www.pyramidheating.com/images/content/humidifier_sbp_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/humidifier_sbp_sm.png
+www.pyramidheating.com/humidifier_sbp_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\humidifier_sbp_sm.png
+Processing image: https://www.pyramidheating.com/images/content/CO_alarm_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/CO_alarm_sm.png
+www.pyramidheating.com/CO_alarm_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\CO_alarm_sm.png
+Processing image: http://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+www.pyramidheating.com/furnacetroubleshooting-1.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\furnacetroubleshooting-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/furnacetroubleshooting-1.jpg
+Processing image: https://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+www.pyramidheating.com/furnacetroubleshooting-1.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\furnacetroubleshooting-1.jpg
+Processing image: http://www.pyramidheating.com/images/blog/static[1].jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/static[1].jpg
+www.pyramidheating.com/static[1].jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\static[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/static[1].jpg
+Processing image: https://www.pyramidheating.com/images/blog/static[1].jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/static[1].jpg
+www.pyramidheating.com/static[1].jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\static[1].jpg
+Processing image: http://www.pyramidheating.com/images/blog/boiler[1].jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/boiler[1].jpg
+www.pyramidheating.com/boiler[1].jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\boiler[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/boiler[1].jpg
+Processing image: https://www.pyramidheating.com/images/blog/boiler[1].jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/boiler[1].jpg
+www.pyramidheating.com/boiler[1].jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\boiler[1].jpg
+Processing image: http://www.pyramidheating.com/images/blog/blog2.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/blog2.jpg
+www.pyramidheating.com/blog2.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\blog2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/blog2.jpg
+Processing image: https://www.pyramidheating.com/images/blog/blog2.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/blog2.jpg
+www.pyramidheating.com/blog2.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\blog2.jpg
+Processing image: https://www.pyramidheating.com/images/content/thermostat_core_wifi.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/thermostat_core_wifi.png
+www.pyramidheating.com/thermostat_core_wifi.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\thermostat_core_wifi.png
+Processing image: http://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+www.pyramidheating.com/shutterstock_502014460.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\shutterstock_502014460.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/shutterstock_502014460.jpg
+Processing image: https://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+www.pyramidheating.com/shutterstock_502014460.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\shutterstock_502014460.jpg
+Processing image: http://www.pyramidheating.com/images/blog/helpful-tips.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/helpful-tips.jpg
+www.pyramidheating.com/helpful-tips.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\helpful-tips.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/helpful-tips.jpg
+Processing image: https://www.pyramidheating.com/images/blog/helpful-tips.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/helpful-tips.jpg
+www.pyramidheating.com/helpful-tips.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\helpful-tips.jpg
+Processing image: http://www.pyramidheating.com/images/blog/upgrades.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/upgrades.jpg
+www.pyramidheating.com/upgrades.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\upgrades.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/upgrades.jpg
+Processing image: https://www.pyramidheating.com/images/blog/upgrades.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/upgrades.jpg
+www.pyramidheating.com/upgrades.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\upgrades.jpg
+Processing image: http://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+www.pyramidheating.com/shutterstock_112951720.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\shutterstock_112951720.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/shutterstock_112951720.jpg
+Processing image: https://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+www.pyramidheating.com/shutterstock_112951720.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\shutterstock_112951720.jpg
+Processing image: http://www.pyramidheating.com/images/blog/esthershort6.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/esthershort6.jpg
+www.pyramidheating.com/esthershort6.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\esthershort6.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/esthershort6.jpg
+Processing image: https://www.pyramidheating.com/images/blog/esthershort6.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/esthershort6.jpg
+www.pyramidheating.com/esthershort6.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\esthershort6.jpg
+Processing image: http://www.pyramidheating.com/images/blog/saveenergy.jpg
+flat: 1, external: 1
+http://www.pyramidheating.com/images/blog/saveenergy.jpg
+www.pyramidheating.com/saveenergy.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\saveenergy.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/saveenergy.jpg
+Processing image: https://www.pyramidheating.com/images/blog/saveenergy.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/blog/saveenergy.jpg
+www.pyramidheating.com/saveenergy.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\saveenergy.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/furnacetroubleshooting-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/static[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/boiler[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/blog2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/saveenergy.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/esthershort6.jpg
+Processing image: https://www.pyramidheating.com/images/redbrick-logo.jpg
+Processing image: https://forms.redbrickfinancial.com/weblink/images/RB_1.png
+flat: 1, external: 1
+https://forms.redbrickfinancial.com/weblink/images/RB_1.png
+forms.redbrickfinancial.com/RB_1.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\forms.redbrickfinancial.com\RB_1.png
+Processing image: https://www.pyramidheating.com/images/content/CCCU-Logo.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/CCCU-Logo.png
+www.pyramidheating.com/CCCU-Logo.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\CCCU-Logo.png
+Processing image: https://www.pyramidheating.com/wp-content/uploads/2016/05/CCCU-Logo.png
+Processing image: https://www.pyramidheating.com/images/content/carrier-cc.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/carrier-cc.png
+www.pyramidheating.com/carrier-cc.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\carrier-cc.png
+Processing image: https://www.pyramidheating.com/images/content/Picture1.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/Picture1.png
+www.pyramidheating.com/Picture1.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Picture1.png
+Processing image: https://www.pyramidheating.com/wp-content/uploads/2016/05/Picture1.png
+Processing image: https://www.pyramidheating.com/images/content/microf.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/microf.png
+www.pyramidheating.com/microf.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\microf.png
+Processing image: https://www.pyramidheating.com/wp-content/uploads/2016/05/microf.png
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-system-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/reviews/reviews-system-v1-bg-mobile.jpg
+www.pyramidheating.com/reviews-system-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\reviews-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-system-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/reviews/reviews-system-v1-bg.jpg
+www.pyramidheating.com/reviews-system-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\reviews-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/site-search/site-search-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/site-search/site-search-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/heating-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/heating-mobile.jpg
+www.pyramidheating.com/heating-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\heating-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/heating.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/heating.jpg
+www.pyramidheating.com/heating.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\heating.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/radiant-heating-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/radiant-heating-mobile.jpg
+www.pyramidheating.com/radiant-heating-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\radiant-heating-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/radiant-heating.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/radiant-heating.jpg
+www.pyramidheating.com/radiant-heating.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\radiant-heating.jpg
+Processing image: https://www.pyramidheating.com/images/content/Radiant_Heat2_sm.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/Radiant_Heat2_sm.jpg
+www.pyramidheating.com/Radiant_Heat2_sm.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Radiant_Heat2_sm.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/boiler-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/boiler-mobile.jpg
+www.pyramidheating.com/boiler-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\boiler-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/boiler.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/boiler.jpg
+www.pyramidheating.com/boiler.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\boiler.jpg
+Processing image: https://www.pyramidheating.com/images/content/Boiler_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/Boiler_sm.png
+www.pyramidheating.com/Boiler_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Boiler_sm.png
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Geo-Thermal-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/Geo-Thermal-mobile.jpg
+www.pyramidheating.com/Geo-Thermal-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Geo-Thermal-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Geo-Thermal.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/Geo-Thermal.jpg
+www.pyramidheating.com/Geo-Thermal.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Geo-Thermal.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/water-heater-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/water-heater-mobile.jpg
+www.pyramidheating.com/water-heater-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\water-heater-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/water-heater.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/water-heater.jpg
+www.pyramidheating.com/water-heater.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\water-heater.jpg
+Processing image: https://www.pyramidheating.com/images/content/navien_tankless_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/navien_tankless_sm.png
+www.pyramidheating.com/navien_tankless_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\navien_tankless_sm.png
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Kitchen-Living-Room-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/Kitchen-Living-Room-mobile.jpg
+www.pyramidheating.com/Kitchen-Living-Room-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Kitchen-Living-Room-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Kitchen-Living-Room.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/Kitchen-Living-Room.jpg
+www.pyramidheating.com/Kitchen-Living-Room.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Kitchen-Living-Room.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/technician-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/technician-mobile.jpg
+www.pyramidheating.com/technician-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\technician-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/technician.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/technician.jpg
+www.pyramidheating.com/technician.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\technician.jpg
+Processing image: https://www.pyramidheating.com/images/content/ductcleaning-1024x379.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/ductcleaning-1024x379.jpg
+www.pyramidheating.com/ductcleaning-1024x379.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\ductcleaning-1024x379.jpg
+Processing image: https://www.pyramidheating.com/images/content/phi.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/phi.png
+www.pyramidheating.com/phi.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\phi.png
+Processing image: https://www.pyramidheating.com/images/content/livingroom-sales-discussion-1_sm.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/livingroom-sales-discussion-1_sm.jpg
+www.pyramidheating.com/livingroom-sales-discussion-1_sm.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\livingroom-sales-discussion-1_sm.jpg
+Processing image: https://www.pyramidheating.com/images/content/thermostat_infinity.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/thermostat_infinity.png
+www.pyramidheating.com/thermostat_infinity.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\thermostat_infinity.png
+Processing image: https://www.pyramidheating.com/assets/sub-banners/commercial-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/commercial-mobile.jpg
+www.pyramidheating.com/commercial-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\commercial-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/commercial.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/sub-banners/commercial.jpg
+www.pyramidheating.com/commercial.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\commercial.jpg
+Processing image: https://www.pyramidheating.com/images/Screenshot_14.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/Screenshot_14.png
+www.pyramidheating.com/Screenshot_14.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Screenshot_14.png
+Processing image: https://www.pyramidheating.com/images/content/NWN_PCA_Vert_sm.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/NWN_PCA_Vert_sm.png
+www.pyramidheating.com/NWN_PCA_Vert_sm.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\NWN_PCA_Vert_sm.png
+Processing image: https://www.pyramidheating.com/images/content/Energy_trust_b-w.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/Energy_trust_b-w.png
+www.pyramidheating.com/Energy_trust_b-w.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\Energy_trust_b-w.png
+Processing image: https://www.pyramidheating.com/images/content/PGE_contractor_blue.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/content/PGE_contractor_blue.png
+www.pyramidheating.com/PGE_contractor_blue.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\PGE_contractor_blue.png
+Processing image: https://www.pyramidheating.com/assets/coupons/coupons-system-v1-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/coupons/coupons-system-v1-bg-mobile.jpg
+www.pyramidheating.com/coupons-system-v1-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\coupons-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/coupons/coupons-system-v1-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/coupons/coupons-system-v1-bg.jpg
+www.pyramidheating.com/coupons-system-v1-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\coupons-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-system-v2-bg-mobile.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/contact/contact-system-v2-bg-mobile.jpg
+www.pyramidheating.com/contact-system-v2-bg-mobile.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\contact-system-v2-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-system-v2-bg.jpg
+flat: 1, external: 1
+https://www.pyramidheating.com/assets/contact/contact-system-v2-bg.jpg
+www.pyramidheating.com/contact-system-v2-bg.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\contact-system-v2-bg.jpg
+Processing image: https://www.pyramidheating.com/images/brand/map-pin.png
+flat: 1, external: 1
+https://www.pyramidheating.com/images/brand/map-pin.png
+www.pyramidheating.com/map-pin.png
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\map-pin.png
+Processing image: https://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\logos\Social-Share[1].jpg
+Processing image: https://www.pyramidheating.com/images/logos/Dark-Logo.png
+Processing image: https://www.pyramidheating.com/images/logos/Light-Logo.png
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-bg-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\mainstages\mainstage-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\mainstages\mainstage-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-img-mobile.png
+Processing image: https://www.pyramidheating.com/assets/mainstages/mainstage-v1-img.png
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\content\content-v3-bg.jpg
+Processing image: https://www.pyramidheating.com/images/accolades/TALogo_black_WhiteSpace.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-img-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\content\content-v3-img-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v3-img.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\content\content-v3-img.jpg
+Processing image: https://www.pyramidheating.com/assets/services/services-v4-bg-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\services\services-v4-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/services/services-v4-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\services\services-v4-bg.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/air-quality-2[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/air-quality-2[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/cooling-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/cooling-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/Heating-2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/Heating-2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/commercial-hvac1[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/commercial-hvac1[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/460x345/images/e.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/483x362/images/e.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v1-bg-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\panel-groups\panel-group-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\panel-groups\panel-group-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-img-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\values\values-v4-img-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v4-img.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\values\values-v4-img.jpg
+Processing image: https://www.pyramidheating.com/assets/awards/awards-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/awards/awards-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\awards\awards-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/images/accolades/Carrier-Logo.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\accolades\Carrier-Logo.png
+Processing image: https://www.pyramidheating.com/images/accolades/5.png
+Processing image: https://www.pyramidheating.com/images/accolades/6[1].png
+Processing image: https://www.pyramidheating.com/images/accolades/nwn.png
+Processing image: https://www.pyramidheating.com/images/accolades/expertise-badge.jpg
+Processing image: https://www.pyramidheating.com/images/accolades/pge.png
+Processing image: https://www.pyramidheating.com/images/accolades/HBA_Logo.png
+Processing image: https://www.pyramidheating.com/images/accolades/7.png
+Processing image: https://www.pyramidheating.com/images/accolades/bia.png
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-v1-bg-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\reviews\reviews-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\reviews\reviews-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/ctas/cta-v4-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/ctas/cta-v4-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/footers/footer-v3-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/footers/footer-v3-bg.jpg
+Processing image: https://www.scorpion.co/images/client-footer-logos/home-services-logo.png
+Processing image: http://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\logos\Social-Share[1].jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/logos/Social-Share[1].jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/assets/sub-banners/air-quality-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/air-quality.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\air-quality.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v1-bg-mobile.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\content\content-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/content/content-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\content\content-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/images/Gary-Phillis-min.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v2-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/panel-groups/panel-group-v2-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\panel-groups\panel-group-v2-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v3-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/values/values-v3-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/specials-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/specials.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\specials.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/results-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/results-system-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\results-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/blog-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/blog.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\blog.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/shutterstock_502014460.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/helpful-tips.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/upgrades.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/shutterstock_112951720.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Air-Purifier-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Air-Purifier.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\Air-Purifier.jpg
+Processing image: https://www.pyramidheating.com/images/content/Filter_sm.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\Filter_sm.png
+Processing image: https://www.pyramidheating.com/images/content/infinity-air-purifier-DCAPA-large.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\infinity-air-purifier-DCAPA-large.png
+Processing image: https://www.pyramidheating.com/images/content/UV-Lights_sm.png
+Processing image: https://www.pyramidheating.com/images/content/Dehumidifier_sm.png
+Processing image: https://www.pyramidheating.com/images/content/humidifier_sbp_sm.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\humidifier_sbp_sm.png
+Processing image: https://www.pyramidheating.com/images/content/CO_alarm_sm.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\CO_alarm_sm.png
+Processing image: http://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\furnacetroubleshooting-1.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/furnacetroubleshooting-1.jpg
+Processing image: https://www.pyramidheating.com/images/blog/furnacetroubleshooting-1.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\furnacetroubleshooting-1.jpg
+Processing image: http://www.pyramidheating.com/images/blog/static[1].jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\static[1].jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/static[1].jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/static[1].jpg
+Processing image: https://www.pyramidheating.com/images/blog/static[1].jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\static[1].jpg
+Processing image: http://www.pyramidheating.com/images/blog/boiler[1].jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\boiler[1].jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/boiler[1].jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/boiler[1].jpg
+Processing image: https://www.pyramidheating.com/images/blog/boiler[1].jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\boiler[1].jpg
+Processing image: http://www.pyramidheating.com/images/blog/blog2.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\blog2.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/blog2.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/blog2.jpg
+Processing image: https://www.pyramidheating.com/images/blog/blog2.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\blog2.jpg
+Processing image: https://www.pyramidheating.com/images/content/thermostat_core_wifi.png
+Processing image: http://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\shutterstock_502014460.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/shutterstock_502014460.jpg
+Processing image: https://www.pyramidheating.com/images/blog/shutterstock_502014460.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\shutterstock_502014460.jpg
+Processing image: http://www.pyramidheating.com/images/blog/helpful-tips.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\helpful-tips.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/helpful-tips.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/helpful-tips.jpg
+Processing image: https://www.pyramidheating.com/images/blog/helpful-tips.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\helpful-tips.jpg
+Processing image: http://www.pyramidheating.com/images/blog/upgrades.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\upgrades.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/upgrades.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/upgrades.jpg
+Processing image: https://www.pyramidheating.com/images/blog/upgrades.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\upgrades.jpg
+Processing image: http://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\shutterstock_112951720.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/shutterstock_112951720.jpg
+Processing image: https://www.pyramidheating.com/images/blog/shutterstock_112951720.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\shutterstock_112951720.jpg
+Processing image: http://www.pyramidheating.com/images/blog/esthershort6.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\esthershort6.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/esthershort6.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/esthershort6.jpg
+Processing image: https://www.pyramidheating.com/images/blog/esthershort6.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\esthershort6.jpg
+Processing image: http://www.pyramidheating.com/images/blog/saveenergy.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\http:\www.pyramidheating.com\images\blog\saveenergy.jpg
+OS Error
+OS Error
+Got an error with: http://www.pyramidheating.com/images/blog/saveenergy.jpg
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/cms/thumbnails/00/445x300/images/blog/saveenergy.jpg
+Processing image: https://www.pyramidheating.com/images/blog/saveenergy.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\blog\saveenergy.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/furnacetroubleshooting-1.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/static[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/boiler[1].jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/blog2.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/saveenergy.jpg
+Processing image: https://www.pyramidheating.com/cms/thumbnails/34/480x240//images/blog/esthershort6.jpg
+Processing image: https://www.pyramidheating.com/images/redbrick-logo.jpg
+Processing image: https://forms.redbrickfinancial.com/weblink/images/RB_1.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\forms.redbrickfinancial.com\https:\forms.redbrickfinancial.com\weblink\images\RB_1.png
+OS Error
+OS Error
+Got an error with: https://forms.redbrickfinancial.com/weblink/images/RB_1.png
+OSError(22, 'Invalid argument')
+Processing image: https://www.pyramidheating.com/images/content/CCCU-Logo.png
+Processing image: https://www.pyramidheating.com/wp-content/uploads/2016/05/CCCU-Logo.png
+Processing image: https://www.pyramidheating.com/images/content/carrier-cc.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\carrier-cc.png
+Processing image: https://www.pyramidheating.com/images/content/Picture1.png
+Processing image: https://www.pyramidheating.com/wp-content/uploads/2016/05/Picture1.png
+Processing image: https://www.pyramidheating.com/images/content/microf.png
+Processing image: https://www.pyramidheating.com/wp-content/uploads/2016/05/microf.png
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/reviews/reviews-system-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\reviews\reviews-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/site-search/site-search-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/site-search/site-search-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/heating-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/heating.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\heating.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/radiant-heating-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/radiant-heating.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\radiant-heating.jpg
+Processing image: https://www.pyramidheating.com/images/content/Radiant_Heat2_sm.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/boiler-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/boiler.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\boiler.jpg
+Processing image: https://www.pyramidheating.com/images/content/Boiler_sm.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\Boiler_sm.png
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Geo-Thermal-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Geo-Thermal.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\Geo-Thermal.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/water-heater-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/water-heater.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\water-heater.jpg
+Processing image: https://www.pyramidheating.com/images/content/navien_tankless_sm.png
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Kitchen-Living-Room-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/Kitchen-Living-Room.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\Kitchen-Living-Room.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/technician-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/technician.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\technician.jpg
+Processing image: https://www.pyramidheating.com/images/content/ductcleaning-1024x379.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\ductcleaning-1024x379.jpg
+Processing image: https://www.pyramidheating.com/images/content/phi.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\phi.png
+Processing image: https://www.pyramidheating.com/images/content/livingroom-sales-discussion-1_sm.jpg
+Processing image: https://www.pyramidheating.com/images/content/thermostat_infinity.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\content\thermostat_infinity.png
+Processing image: https://www.pyramidheating.com/assets/sub-banners/commercial-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/sub-banners/commercial.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\sub-banners\commercial.jpg
+Processing image: https://www.pyramidheating.com/images/Screenshot_14.png
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\images\Screenshot_14.png
+Processing image: https://www.pyramidheating.com/images/content/NWN_PCA_Vert_sm.png
+Processing image: https://www.pyramidheating.com/images/content/Energy_trust_b-w.png
+Processing image: https://www.pyramidheating.com/images/content/PGE_contractor_blue.png
+Processing image: https://www.pyramidheating.com/assets/coupons/coupons-system-v1-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/coupons/coupons-system-v1-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\coupons\coupons-system-v1-bg.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-system-v2-bg-mobile.jpg
+Processing image: https://www.pyramidheating.com/assets/contact/contact-system-v2-bg.jpg
+flat: False, external: 1
+C:\Users\ian.andersen\Documents\Compressed Websites\www.pyramidheating.com\www.pyramidheating.com\assets\contact\contact-system-v2-bg.jpg
+Processing image: https://www.pyramidheating.com/images/brand/map-pin.png
+Processing image: https://www.thestewartlawfirm.net/images/stewartlogo.png
+Processing image: http://thestewartlawfirm.net/images/Logo.png
+Processing image: http://thestewartlawfirm.net/images/Slide-1b.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Slide-1b.jpg
+Processing image: http://thestewartlawfirm.net/images/Slide-2.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Slide-2.jpg
+Processing image: http://thestewartlawfirm.net/images/Slide-3.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Slide-3.jpg
+Processing image: http://thestewartlawfirm.net/media/vpics/Austin-Personal-Injury-Lawyer-The-Stewart-Law-Firm-PLLC_20151001020954.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\media\vpics\Austin-Personal-Injury-Lawyer-The-Stewart-Law-Firm-PLLC_20151001020954.png
+Processing image: http://thestewartlawfirm.net/images/cta-ro.jpg
+Processing image: http://thestewartlawfirm.net/images/star.png
+Processing image: http://thestewartlawfirm.net/images/American-Association-Justice.png
+Processing image: http://thestewartlawfirm.net/images/Texas-Trial-Association.png
+Processing image: http://thestewartlawfirm.net/images/Southern-Trial-Lawyers.png
+Processing image: http://thestewartlawfirm.net/images/Brain-Injury.png
+Processing image: http://thestewartlawfirm.net/images/NSCIA.png
+Processing image: http://thestewartlawfirm.net/images/top-choice-award[1].png
+Processing image: http://thestewartlawfirm.net/images/SuperLawyers.png
+Processing image: http://thestewartlawfirm.net/images/Trial-Lawyers-Top-100.png
+Processing image: http://thestewartlawfirm.net/images/Million-Advo.png
+Processing image: http://thestewartlawfirm.net/images/Multi-Million-Advo.png
+Processing image: http://thestewartlawfirm.net/images/attorney-feed-bg.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\attorney-feed-bg.jpg
+Processing image: http://thestewartlawfirm.net/images/Polaroid-3.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Polaroid-3.png
+Processing image: http://thestewartlawfirm.net/images/Polaroid-2.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Polaroid-2.png
+Processing image: http://thestewartlawfirm.net/images/Polaroid-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Polaroid-1.png
+Processing image: http://thestewartlawfirm.net/images/Polaroid-6.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Polaroid-6.png
+Processing image: http://thestewartlawfirm.net/images/Polaroid-5.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Polaroid-5.png
+Processing image: http://thestewartlawfirm.net/images/Polaroid-4.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Polaroid-4.png
+Processing image: https://www.thestewartlawfirm.net/images/Logo.png
+Processing image: http://thestewartlawfirm.net/images/Stephen-Stewart[1].jpg
+Processing image: http://thestewartlawfirm.net/images/JamesMuller.jpg
+Processing image: http://thestewartlawfirm.net/images/JamesGuyMuller.JPG
+Processing image: http://thestewartlawfirm.net/images/Best-RS.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/motorcycle.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/motorcycle.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\motorcycle.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/44-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\44-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_103627409-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_103627409-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/16-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\16-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/11-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\11-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/16.png
+Processing image: http://thestewartlawfirm.net/images/16.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\16.png
+Processing image: http://www.thestewartlawfirm.net/images/11.png
+Processing image: http://thestewartlawfirm.net/images/11.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\11.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_133793786-compressed-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_133793786-compressed-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_133793786-compressed.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/airbag-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\airbag-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/recall-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/airbag.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/airbag.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\airbag.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/recall.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/recall.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\recall.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/brain-image-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/brain-injury-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\brain-injury-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/brain-sports-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\brain-sports-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/brain-image.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/brain-image.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\brain-image.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/brain-injury.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/brain-injury.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\brain-injury.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/brain-sports.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/brain-sports.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\brain-sports.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/9-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\9-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/stewartburn-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\stewartburn-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/9.png
+Processing image: http://thestewartlawfirm.net/images/9.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\9.png
+Processing image: http://www.thestewartlawfirm.net/images/stewartburn.jpg
+Processing image: http://thestewartlawfirm.net/images/stewartburn.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\stewartburn.jpg
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\stewartburn.jpg
+OSError('cannot write mode RGBA as JPEG')
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/40-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\40-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Road-work-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Road-work-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/30-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\30-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/35-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\35-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/22-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\22-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/5-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\5-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_558136654-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_558136654-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_595685333-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_595685333-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/35.png
+Processing image: http://thestewartlawfirm.net/images/35.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\35.png
+Processing image: http://www.thestewartlawfirm.net/images/22.png
+Processing image: http://thestewartlawfirm.net/images/22.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\22.png
+Processing image: http://www.thestewartlawfirm.net/images/5.png
+Processing image: http://thestewartlawfirm.net/images/5.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\5.png
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_558136654.jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_558136654.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_558136654.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_595685333.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Stewart-Post-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Stewart-Post-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/unnamed-2-661545350661-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\unnamed-2-661545350661-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Stewart-Post.png
+Processing image: http://thestewartlawfirm.net/images/Stewart-Post.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Stewart-Post.png
+Processing image: http://www.thestewartlawfirm.net/images/unnamed-2-661545350661.png
+Processing image: http://thestewartlawfirm.net/images/unnamed-2-661545350661.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\unnamed-2-661545350661.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_597485048-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_597485048-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/pedestrian-crossing-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\pedestrian-crossing-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/pedestrian-crossing.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/pedestrian-crossing.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\pedestrian-crossing.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_618986816-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_618986816-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/cell-phone-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\cell-phone-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/phone-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\phone-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/car-technology-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\car-technology-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_618986816.jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_618986816.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_618986816.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/cell-phone.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/cell-phone.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\cell-phone.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/phone.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/phone.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\phone.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/car-technology.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/car-technology.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\car-technology.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_414761308-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_414761308-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/DUI-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\DUI-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/DUI2-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\DUI2-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/JBJ-2017.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_414761308.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/shutterstock_414761308.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\shutterstock_414761308.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/DUI.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/DUI.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\DUI.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/winter-driving.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/winter-driving.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\winter-driving.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/DUI2.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/DUI2.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\DUI2.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/fun_run-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\fun_run-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/accolade-association-logos/logo-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\accolade-association-logos\logo-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/jinglebellrun-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\jinglebellrun-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/accolade-association-logos/Super-Lawyers-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/stewart-law-firm-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/stewartlogo[1]-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/top_choice_award_logo-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\top_choice_award_logo-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/Christmas-runners-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\Christmas-runners-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/accolade-association-logos/logo.png
+Processing image: http://thestewartlawfirm.net/images/accolade-association-logos/logo.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\accolade-association-logos\logo.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/jinglebellrun.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/jinglebellrun.jpg
+Processing image: http://www.thestewartlawfirm.net/images/accolade-association-logos/Super-Lawyers.png
+Processing image: http://thestewartlawfirm.net/images/accolade-association-logos/Super-Lawyers.png
+Processing image: http://www.thestewartlawfirm.net/images/stewart-law-firm.jpg
+Processing image: http://thestewartlawfirm.net/images/stewart-law-firm.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/APA.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\APA.jpg
+Processing image: http://www.thestewartlawfirm.net/images/stewartlogo[1].png
+Processing image: http://thestewartlawfirm.net/images/stewartlogo[1].png
+Processing image: http://www.thestewartlawfirm.net/images/top_choice_award_logo.jpg
+Processing image: http://thestewartlawfirm.net/images/top_choice_award_logo.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/Christmas-runners.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/Christmas-runners.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\Christmas-runners.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/motorcylist-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\motorcylist-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/motocycle-accident-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\motocycle-accident-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/motorcylist.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/motorcylist.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\motorcylist.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/car-accident4-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\car-accident4-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/car-accident4.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/car-accident4.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\car-accident4.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_compressedd-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_compressedd-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_1149639419_1_COMPRESSED-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_1149639419_1_COMPRESSED-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock-wheelchair-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock-wheelchair-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_compressedd.jpg
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_1149639419_1_COMPRESSED.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock-wheelchair.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Untitled-design-2019-05-08T165523.761-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Untitled-design-2019-05-08T165523.761-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/truck-driver[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\truck-driver[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/truck-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\truck-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/truck-driver-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\truck-driver-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Untitled-design-2019-05-08T165523.761.png
+Processing image: http://thestewartlawfirm.net/images/Untitled-design-2019-05-08T165523.761.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Untitled-design-2019-05-08T165523.761.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/truck-driver[1].jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/truck-driver[1].jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\truck-driver[1].jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/truck.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/truck.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\truck.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/truck-driver.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/truck-driver.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\truck-driver.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/construction[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\construction[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_101083435-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_101083435-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/construction[1].jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/construction[1].jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\construction[1].jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_101083435.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/shutterstock_101083435.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\shutterstock_101083435.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Untitled-design-2019-03-01T154448.164-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Untitled-design-2019-03-01T154448.164-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/Wrongf-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\Wrongf-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Untitled-design-2019-03-01T154448.164.png
+Processing image: http://thestewartlawfirm.net/images/Untitled-design-2019-03-01T154448.164.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Untitled-design-2019-03-01T154448.164.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/Wrongf.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/Wrongf.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\Wrongf.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Road-work.jpg
+Processing image: http://thestewartlawfirm.net/images/Road-work.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Road-work.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/fun_run.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/fun_run.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\fun_run.jpg
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_597485048.jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_597485048.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_597485048.jpg
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_103627409.jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_103627409.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_103627409.jpg
+Processing image: http://www.thestewartlawfirm.net/images/30.png
+Processing image: http://thestewartlawfirm.net/images/30.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\30.png
+Processing image: http://www.thestewartlawfirm.net/images/25.png
+Processing image: http://thestewartlawfirm.net/images/25.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\25.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/motocycle-accident.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/motocycle-accident.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\motocycle-accident.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/crosswalk-pedestrian.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/crosswalk-pedestrian.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\crosswalk-pedestrian.jpg
+Processing image: http://thestewartlawfirm.net/images/slip-fall.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\slip-fall.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/dontgetmaddgetmoney[1].jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\dontgetmaddgetmoney[1].jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Star-Volunteer-Award[2].jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Star-Volunteer-Award[2].jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/25-1500-ffccccccTransparent-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\25-1500-ffccccccTransparent-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_730634437-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_730634437-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_762545014-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_762545014-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_730634437.jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_730634437.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_730634437.jpg
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_762545014.jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_762545014.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_762545014.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_84405670-min-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_84405670-min-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_84405670-min.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_701403016-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_701403016-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_701403016.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/shutterstock_701403016.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\shutterstock_701403016.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/4th-of-July-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\4th-of-July-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_765012892-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_765012892-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/4th-of-July.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_765012892.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/shutterstock_422256799[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\shutterstock_422256799[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/shutterstock_422256799[1].jpg
+Processing image: http://thestewartlawfirm.net/images/shutterstock_422256799[1].jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\shutterstock_422256799[1].jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/whiplash-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\whiplash-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/whiplash.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/whiplash.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\whiplash.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_318855302-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_318855302-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_318855302.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/shutterstock_318855302.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\shutterstock_318855302.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/dog-bite-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\dog-bite-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/crosswalk-pedestrian-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\crosswalk-pedestrian-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/dog-bite.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/dog-bite.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\dog-bite.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/shutterstock_279538859[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\shutterstock_279538859[1]-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/shutterstock_279538859[1].jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/shutterstock_279538859[1].jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\shutterstock_279538859[1].jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/kids-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\kids-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/boat-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\boat-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/kids.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/kids.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\kids.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/boat.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/boat.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\boat.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/motorcycle-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\motorcycle-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/spinal-cord-injury-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\spinal-cord-injury-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/spinal-cord-injury.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/spinal-cord-injury.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\spinal-cord-injury.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/Speeding-car-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\Speeding-car-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/lawyer-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\lawyer-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/Speeding-car.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/Speeding-car.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\Speeding-car.jpg
+Processing image: http://www.thestewartlawfirm.net/images/Blog/lawyer.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/lawyer.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\lawyer.jpg
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/winter-driving-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\winter-driving-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://thestewartlawfirm.net/images/cmssys/thumbnails/Blog/broken-windshield-1500-ffccccccWhite-3333-0.20.3-1.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\cmssys\thumbnails\Blog\broken-windshield-1500-ffccccccWhite-3333-0.20.3-1.png
+Processing image: http://www.thestewartlawfirm.net/images/Blog/broken-windshield.jpg
+Processing image: http://thestewartlawfirm.net/images/Blog/broken-windshield.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\Blog\broken-windshield.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/stewart.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\stewart.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Jordan-Jackson-and-Stephen.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Jordan-Jackson-and-Stephen.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Star-Volunteer-Award.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Star-Volunteer-Award.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/3rd-Annual-Jam-for-Justic.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\3rd-Annual-Jam-for-Justic.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Top-Donor-MADD-Walk-Event.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Top-Donor-MADD-Walk-Event.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Local-Hero.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Local-Hero.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/dontgetmaddgetmoney.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\dontgetmaddgetmoney.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/img1.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\img1.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/img2.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\img2.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Stewart-Law-Firm-works-to-make-roads-safer.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Stewart-Law-Firm-works-to-make-roads-safer.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Jam-4-Justice.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Jam-4-Justice.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/National-Crime-Victims-Rights-Week.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/MADDEVENT.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\MADDEVENT.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/METALOFHONOR.jpg
+Processing image: http://thestewartlawfirm.net/images/import/content/images/Jingle-bell-5k-Run2.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\import\content\images\Jingle-bell-5k-Run2.png
+Processing image: http://thestewartlawfirm.net/images/burn-injury.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\burn-injury.jpg
+Processing image: http://thestewartlawfirm.net/images/paralysis[1].jpg
+Processing image: http://thestewartlawfirm.net/images/paralysis2.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\paralysis2.jpg
+Processing image: http://thestewartlawfirm.net/images/baby3.jpg
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\baby3.jpg
+Processing image: http://www.thestewartlawfirm.net/images/44.png
+Processing image: http://thestewartlawfirm.net/images/44.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\44.png
+Processing image: http://www.thestewartlawfirm.net/images/40.png
+Processing image: http://thestewartlawfirm.net/images/40.png
+flat: False, external: False
+C:\Users\ian.andersen\Documents\Compressed Websites\thestewartlawfirm.net\images\40.png
