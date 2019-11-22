@@ -99,7 +99,7 @@ class CompressinatorApp(App):
             'SsoLink': 'sso49',
             'PngquantCommand': '.\\pngquant --ext .png --force 256 --quality=65-80',
             'PillowQuality': '80',
-            'ThumbnailPath': '/cms/thumbnails/',
+            'ThumbnailPath': '/cms/thumbnails/,/cmssys/thumbnails/',
             'RootPath': default_root_path,
             'WholeSite': False,
             'AllowExternalImages': False,

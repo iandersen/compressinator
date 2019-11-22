@@ -46,7 +46,7 @@ settings_json = json.dumps([
             {
                 "type":"string",
                 "title": "Thumbnail Path",
-                "desc":"The path to thumbnails, which will be ignored since compressing thumbnails is probably not useful. By default this is: /cms/thumbnails/",
+                "desc":"The path to thumbnails, which will be ignored since compressing thumbnails is probably not useful. Separate different terms with a ','. By default this is: /cms/thumbnails/,/cmssys/thumbnails/",
                 "section":"Default",
                 "key":"ThumbnailPath"
             },

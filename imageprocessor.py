@@ -38,8 +38,9 @@ def process_image(image_url, updatedConfig, url, new_path, backup_path):
         image_url = url + image_url
     elif re.search(site_regex, image_url) is None and not AllowExternalImages:
         return CompressionInfo(exclusion_reason='REMOTE')
-    if re.search(re.escape(ThumbnailPath), image_url) is not None:
-        return CompressionInfo(exclusion_reason='THUMBNAIL')
+    for exclusion in ThumbnailPath.split(','):
+        if re.search(re.escape(exclusion), image_url) is not None:
+            return CompressionInfo(exclusion_reason='THUMBNAIL')
     try:
         image = None
         try:
